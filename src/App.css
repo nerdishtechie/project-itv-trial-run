@@ -1,0 +1,14 @@
+body{
+  padding: 0 0 0 70px;
+}
+.horizon{
+  display: flex;
+  flex-wrap: wrap;
+
+  
+}
+.card{
+  margin: 10px;
+  /* width: calc(33.33% - 20px); */
+
+}
